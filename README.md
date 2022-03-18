@@ -1,16 +1,12 @@
- Math Magician
+# My Math Magician
 
-This project is about a 3 page website using REACT router. The home page has a couple of fixed paragraphs, the calc page has a simple calculator and the quotes page selects a random quote out of a pool quotes.
+This is a basic calculator created with React
+
+## Screenshot
+
+![screenshot](./app_screenshot.png)
 
 
-## Built With
-
-- HTML
-- CSS
-- JavaScript
-- NPM
-- React
-- React router
 
 ## Requisites
 node v16.13
@@ -20,8 +16,8 @@ npm v8.3
 
 Clone the repository: 
 
-`git clone https://github.com/gdumani/math-magician.git`
-`cd math-magician`
+`git clone https://github.com/gdumani/my-mathmagician.git`
+`cd my-mathmagician`
 
 Load required npm software
 
