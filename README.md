@@ -20,7 +20,7 @@ Clone the repository:
 
 `cd my-mathmagician`
 
-`git checkout feat/events`
+`git checkout feat/refactor-hooks`
 
 Load required npm software
 
