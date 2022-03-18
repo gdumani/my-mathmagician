@@ -6,9 +6,9 @@
   margin: auto;
   display: grid;
   position: absolute;
-  top:50%;
+  top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   grid-template-columns: repeat(4, 1fr);
   width: 20rem;
   grid-auto-rows: 3rem;
