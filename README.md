@@ -17,7 +17,10 @@ npm v8.3
 Clone the repository: 
 
 `git clone https://github.com/gdumani/my-mathmagician.git`
+
 `cd my-mathmagician`
+
+`git checkout feat/events`
 
 Load required npm software
 
