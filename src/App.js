@@ -1,11 +1,20 @@
 import React from 'react';
-import Calculator from './components/calculator';
 import './App.css';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+} from 'react-router-dom';
 
-const App = () => (
-  <div className="App">
-    <Calculator />
-  </div>
-);
-
-export default App;
+export default function App() {
+  return (
+    <Router>
+      <NavBar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calc" element={<Calc />} />
+        <Route path="/quote" element={<Quote />} />
+      </Routes>
+    </Router>
+  );
+}
