@@ -1,6 +1,6 @@
 /* eslint-disable max-len */
 import React from 'react';
-// import '../style/home.css';
+import '../style/home.css';
 
 const Home = () => (
   <div>
