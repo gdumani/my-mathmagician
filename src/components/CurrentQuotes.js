@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Quotes = [
   {
     phrase: 'A mathematician who is not also something of a poet will never be a complete mathematician.',
