@@ -1,5 +1,5 @@
 import {
-  render, fireEvent, waitFor, screen,
+  render, fireEvent, screen,
 } from '@testing-library/react';
 import React from 'react';
 import Calculator from './Calculator';
