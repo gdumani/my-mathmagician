@@ -1,4 +1,4 @@
-exports[`test match app snapshot 1`] = `
+exports[`test match home snapshot 1`] = `
 <div>
   <h2
     className="home">
