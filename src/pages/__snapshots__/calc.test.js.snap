@@ -6,7 +6,8 @@ exports[`test match calc snapshot 1`] = `
   </h3>
   <div
     className="calc">
-    <span>
+    <span
+      data-testid="display">
       
     </span>
     <button
