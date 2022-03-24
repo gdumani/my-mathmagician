@@ -19,12 +19,12 @@ describe('test all calculator function', () => {
     };
     expect(calculate(myObj, '=')).toEqual(ResObj);
   });
-  test('will return the value of 0 by dividing 2 + 2', () => {
+  test('will return the value of null by pressing AC', () => {
     const myObj = {
       total: '2', next: '2', operation: '÷',
     };
     const ResObj = {
-      total: '', next: null, operation: null,
+      total: null, next: null, operation: null,
     };
     expect(calculate(myObj, 'AC')).toEqual(ResObj);
   });
