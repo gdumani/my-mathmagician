@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import Calc from './calc';
+import Calc from '../pages/calc';
 
 test('match calc snapshot', () => {
   const tree = renderer.create(<Calc />).toJSON();

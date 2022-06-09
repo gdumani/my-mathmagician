@@ -2,7 +2,7 @@ import {
   render, fireEvent, screen,
 } from '@testing-library/react';
 import React from 'react';
-import Calculator from './Calculator';
+import Calculator from '../components/Calculator';
 
 test('Calculator renders correctly', () => {
   const tree = render(<Calculator />);

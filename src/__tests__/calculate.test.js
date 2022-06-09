@@ -1,4 +1,4 @@
-import calculate from './calculate';
+import calculate from '../logic/calculate';
 
 describe('test all calculator function', () => {
   test('will return the value of 4 by adding 2 + 2', () => {
