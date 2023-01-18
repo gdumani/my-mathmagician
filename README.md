@@ -1,90 +1,177 @@
-# My Math Magician
+<a name="readme-top"></a>
 
-This project is about a 3 page website using REACT router. The home page has a couple of fixed paragraphs, the calc page has a simple calculator and the quotes page selects a random quote out of a pool quotes.
+<div align="center">
+  <h3><b>My Math Magician</b></h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [My Math Magician] <a name="about-project"></a>
+
+**[My Math Magician]** is about a 3 page website using REACT router. The home page has a couple of fixed paragraphs, the calc page has a simple calculator and the quotes page selects a random quote out of a pool quotes.
 
 ## Screenshot
 
 ![screenshot](./app_screenshot.png)
 
+## 🛠 Built With <a name="built-with"></a>
 
-## Built With
+### Tech Stack <a name="tech-stack"></a>
 
-- HTML
-- CSS
-- JavaScript
-- NPM
-- React
-- React router
+Built with React JS, JavaScript, HTML and CSS
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Welcome/Home page]**
+- **[Calculator]**
+- **[Quote page]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com) Not yet available
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 
-## Requisites
-node v16.13
-npm v8.3
+### Prerequisites
 
-## Installation
+In order to run this project you need to have installed Nodejs
 
-Clone the repository: 
+### Setup
 
-`git clone https://github.com/gdumani/my-mathmagician.git`
+Clone this repository to your desired folder:
 
-`cd my-mathmagician`
+```sh
+  cd my-folder
+  git clone https://github.com/gdumani/my-mathmagician.git
+```
 
-`git checkout feat/site`
+### Install
 
-Load required npm software
+Install this project with:
 
-`npm install`
+```sh
+  cd my-mathmagician
+  npm install
+```
 
-## Available Scripts
 
-In the project directory, you can run:
+### Run tests
 
-`npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To run tests, run the following command:
 
 `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-`npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- AUTHORS -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 👥 Authors <a name="authors"></a>
 
-## Authors
-
-**Giancarlo Dumani**
+👤 **Giancarlo Dumani**
 
 - GitHub: [@gdumani](https://github.com/gdumani)
 - Twitter: [@gdumani1](https://twitter.com/gdumani1)
 - LinkedIn: [ Giancarlo-Dumani](https://www.linkedin.com/in/gdumani/?originalSubdomain=cr)
 
+👤 **Alejandra Keber Maggi**
 
-## 🤝 Contributing
+- GitHub: [@AlejandraKeber](https://github.com/AlejandraKeber)
+- Twitter: [@KeberAlejandra](https://twitter.com/KeberAlejandra)
+- LinkedIn: [alejandra-keber](www.linkedin.com/in/alejandra-keber)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Deploy the app]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/gdumani/my-mathmagician/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project please give a star
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank to Microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
