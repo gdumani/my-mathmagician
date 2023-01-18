@@ -15,7 +15,7 @@ const Calculator = () => {
 
   return (
     <div className="calc">
-      <span>{disp}</span>
+      <span data-testid="display">{disp}</span>
       <button onClick={handleClick} type="button">AC</button>
       <button onClick={handleClick} type="button">+/-</button>
       <button onClick={handleClick} type="button">%</button>
